@@ -22,17 +22,33 @@ pygmentsCodefences      = true
 
 
 [[params.mainMenu]]
+    link = "/about"
+    text = "Hello. I am Punya."
+
+[[params.mainMenu]]
     link = "/gallery"
-    text = "design."
+    text = "I'm a UI / UX designer."
 
 [[params.mainMenu]]
     link = "https://github.com/punyavashist"
-    text = "code."
+    text = "I like to code as well."
 
 [[params.mainMenu]]
     link = "/posts"
-    text = "writing."
+    text = "Also, I write."
 
-[[params.mainMenu]]
+[[params.footerMenu]]
     link = "/about"
-    text = "about punyavashist."
+    text = "about."
+
+[[params.footerMenu]]
+    link = "/gallery"
+    text = "design."
+
+[[params.footerMenu]]
+    link = "https://github.com/punyavashist"
+    text = "code."
+
+[[params.footerMenu]]
+    link = "/posts"
+    text = "posts."
